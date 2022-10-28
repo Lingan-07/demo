@@ -1,3 +1,2 @@
-#DEMO
-
-HELLO
+Hello dude 
+Welcome to my repository
